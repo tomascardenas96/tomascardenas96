@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
+#### - My tecnical skills
 ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)
