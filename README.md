@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Astro-violet?style=flat-square&logo=astro&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Git-red?style=flat-square&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Jira-blue?logo=jira)
 ![Static Badge](https://img.shields.io/badge/Github-grey?style=flat-square&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Markdown-lightgrey?style=flat-square&logo=markdown&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=tailwindcss&logoColor=white)
