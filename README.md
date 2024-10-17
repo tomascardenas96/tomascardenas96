@@ -42,4 +42,6 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Slack-white?style=flat-square&logo=slack&logoColor=black&color=white)
 ![Static Badge](https://img.shields.io/badge/Trello-%230052CC?style=flat-square&logo=trello&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Notion-grey?logo=notion)
+
 
