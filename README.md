@@ -13,13 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there, i'm Tomas Cardenas
-
-</br>
-
----
-
-
+# 👋 Hi there, i'm Tomas Cardenas
 
 #### - My tecnical skills
 ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white)
